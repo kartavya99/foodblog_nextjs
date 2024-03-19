@@ -44,3 +44,9 @@ p a:active {
   color: #bd3df4;
   border-color: #bd3df4;
 }
+
+svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}

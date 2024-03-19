@@ -4,6 +4,15 @@ export default function Home() {
   return (
     <main>
       <p>Home Page</p>
+      <p>
+        <Link href="/meals">Meals</Link>
+      </p>
+      <p>
+        <Link href="/meals/share">Share Meals</Link>
+      </p>
+      <p>
+        <Link href="/community">Community</Link>
+      </p>
     </main>
   );
 }

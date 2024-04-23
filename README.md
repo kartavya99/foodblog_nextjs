@@ -1,33 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next Js Food blog App
+
+# Functionality of this app
+
+allow users to browse through the meal recipe and user can add new recipe to the blog.
+
+# Installation
+
+- project will only run locally for the education purpose
+- download or clone repository - [Next Js Food Blog](https://github.com/kartavya99/foodblog_nextjs)
+- NodeJS is required to run the application
 
 ## Getting Started
 
-First, run the development server:
+- run npm install & npm run dev
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- You can start editing the pages by modifying. The page auto-updates as you edit the file.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Home Page
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img src = "./public/images/home.png" width ="400">
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Single Meal Page
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img src = "./public/images/single.png" width ="400">
 
-## Learn More
+## Community Page
 
-To learn more about Next.js, take a look at the following resources:
+<img src = "./public/images/comm.png" width ="400">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Meal Share Page
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img src = "./public/images/share.png" width ="400">
 
 ## Deploy on Vercel
 
